@@ -6,9 +6,9 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+# More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Joe Public is an awesome librarian
 
 ### Contact me
 
